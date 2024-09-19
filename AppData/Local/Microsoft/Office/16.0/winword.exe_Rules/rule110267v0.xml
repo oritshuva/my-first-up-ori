@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="110267" V="0" DC="SM" T="Subrule" xmlns="">
+  <S>
+    <Etw T="1" E="125" G="{daf0b914-9c1c-450a-81b2-fea7244f6ffa}" />
+    <F T="2">
+      <O T="EQ">
+        <L>
+          <S T="1" F="saveInitiateKind" />
+        </L>
+        <R>
+          <V V="0" T="I32" />
+        </R>
+      </O>
+    </F>
+  </S>
+  <T>
+    <S T="2" />
+  </T>
+</R>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="68019" V="2" DC="SM" EN="Office.TellMe.TellMeD.TimingMetrics" ATT="31d9dd3e4c7046a696537586281d7ed1-06d11dd6-a946-4281-8ac3-a7c2ab4776f5-7063" SP="CriticalBusinessImpact" DL="N" DCa="PSU" xmlns="">
+  <RIS>
+    <RI N="ExperimentationCustomData" />
+  </RIS>
+  <S>
+    <UTS T="1" Id="aw6kb" />
+    <UTS T="2" Id="aw6j9" />
+    <UTS T="3" Id="aw6j5" />
+  </S>
+  <G>
+    <S T="1">
+      <F N="sessionId" />
+    </S>
+    <S T="2">
+      <F N="sessionId" />
+    </S>
+    <S T="3">
+      <F N="sessionId" />
+    </S>
+  </G>
+  <C T="G" I="0" O="false" N="TellMeSessionId">
+    <S T="2" F="sessionId" />
+  </C>
+  <C T="U64" I="1" O="false" N="DwellTime">
+    <O T="SUB">
+      <L>
+        <S T="2" F="TimeStamp100ns" />
+      </L>
+      <R>
+        <S T="1" F="TimeStamp100ns" />
+      </R>
+    </O>
+  </C>
+  <C T="U32" I="2" O="false" N="UserActionID">
+    <V V="0" T="U32" />
+  </C>
+  <C T="W" I="3" O="false" N="UserActionName">
+    <V V="TellMeD_DwellTime" T="W" />
+  </C>
+  <C T="U64" I="4" O="false" N="TimeToSuccess">
+    <O T="SUB">
+      <L>
+        <S T="2" F="TimeStamp100ns" />
+      </L>
+      <R>
+        <S T="3" F="TimeStamp100ns" />
+      </R>
+    </O>
+  </C>
+  <C T="W" I="5" O="true" N="SearchScenario">
+    <S T="2" F="SearchScenario" M="Ignore" />
+  </C>
+  <T>
+    <S T="2" />
+  </T>
+</R>

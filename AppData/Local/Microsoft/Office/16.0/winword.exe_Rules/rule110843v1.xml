@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="110843" V="1" DC="SM" EN="Office.Word.Coauthoring.QuickMergeUnsafeOpSource" ATT="bffd26d9e49b4b7db4cb4df3425812de-d3cf8f62-3ad9-4007-99a8-8fb5cc89fd5d-7896" DL="N" DCa="PSU" xmlns="">
+  <S>
+    <Etw T="1" E="463" G="{a1b69d49-2195-4f59-9d33-bdf30c0fe473}" />
+    <TI T="2" I="Hourly" />
+    <A T="3" E="TelemetrySuspend" />
+    <A T="4" E="TelemetryShutdown" />
+  </S>
+  <G>
+    <S T="1">
+      <F N="source" />
+    </S>
+  </G>
+  <C T="U64" I="0" O="false" N="Source">
+    <S T="1" F="source" />
+  </C>
+  <C T="U32" I="1" O="false" N="Count">
+    <C>
+      <S T="1" />
+    </C>
+  </C>
+  <C T="U64" I="2" O="false" N="Tag">
+    <S T="1" F="mrtTag" />
+  </C>
+  <T>
+    <S T="2" />
+    <S T="3" />
+    <S T="4" />
+  </T>
+  <ST>
+    <S T="1" />
+  </ST>
+</R>

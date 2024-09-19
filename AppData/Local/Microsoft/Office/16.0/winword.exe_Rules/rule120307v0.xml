@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="120307" V="0" DC="SM" EN="Office.System.SystemHealthAsserts" ATT="cd836626611c4caaa8fc5b2e728ee81d-3b6d6c45-6377-4bf5-9792-dbf8e1881088-7521" DL="B" DCa="PSU" xmlns="">
+  <RIS>
+    <RI N="Error" />
+  </RIS>
+  <S>
+    <UACS T="1" S="Assert" />
+    <TI T="2" I="30s" />
+    <A T="3" E="TelemetrySuspend" />
+    <A T="4" E="TelemetryShutdown" />
+  </S>
+  <G>
+    <S T="1">
+      <F N="ULS_Category" />
+      <F N="ULS_Tag" />
+    </S>
+  </G>
+  <C T="FT" I="0" O="false" N="EndTime">
+    <A T="MAX">
+      <S T="1" F="TimeStamp100ns" />
+    </A>
+  </C>
+  <C T="W" I="1" O="false" N="ErrorGroup">
+    <S T="1" F="ULS_Category" />
+  </C>
+  <C T="TAG" I="2" O="false" N="Trackback">
+    <S T="1" F="ULS_Tag" />
+  </C>
+  <C T="U32" I="3" O="false" N="Count">
+    <C>
+      <S T="1" />
+    </C>
+  </C>
+  <C T="FT" I="4" O="false" N="FirstTimeStamp">
+    <A T="MIN">
+      <S T="1" F="TimeStamp100ns" />
+    </A>
+  </C>
+  <T>
+    <S T="2" />
+    <S T="3" />
+    <S T="4" />
+  </T>
+</R>

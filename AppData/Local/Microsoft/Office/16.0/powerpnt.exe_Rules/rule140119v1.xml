@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="140119" V="1" DC="SM" EN="Office.PowerPoint.PPT.Desktop.PPTSectionLinkInsertionRule" ATT="e97859101370486fbcb67f5a023da3fc-29b89831-2d28-4841-8fa6-338080fae3a4-7206" SP="CriticalBusinessImpact" DCa="PSU" xmlns="">
+  <S>
+    <UTS T="1" Id="bedba" />
+    <UTS T="2" Id="bedbg" />
+    <UTS T="3" Id="bedbh" />
+    <UTS T="4" Id="beh91" />
+    <A T="5" E="TelemetrySuspend" />
+    <A T="6" E="TelemetryShutdown" />
+  </S>
+  <C T="U32" I="0" O="false" N="SectionLinkInsertionDialogLaunched">
+    <C>
+      <S T="1" />
+    </C>
+  </C>
+  <C T="U32" I="1" O="false" N="SectionLinkInsertionDialogCancelled">
+    <C>
+      <S T="2" />
+    </C>
+  </C>
+  <C T="U32" I="2" O="false" N="SectionLinkInsertedUsingDialog">
+    <C>
+      <S T="3" />
+    </C>
+  </C>
+  <C T="U32" I="3" O="false" N="SectionLinkInsertionSuccess">
+    <C>
+      <S T="4" />
+    </C>
+  </C>
+  <T>
+    <S T="5" />
+    <S T="6" />
+  </T>
+  <ST>
+    <S T="1" />
+    <S T="4" />
+  </ST>
+</R>

@@ -1,0 +1,23 @@
+2024-09-15T10:33:56.163586+03:00 0x00006994 <INFO> SingleThreadedWorkerWin: Waiting for Work on worker thread : TelemetryServiceWorker
+2024-09-15T10:33:56.221615+03:00 0x000056a8 <INFO> TelemetryService: Sampling rules from previous session recovered
+2024-09-15T10:33:56.228138+03:00 0x000056a8 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF60938C205: (caller: 00007FF6092ECCB6) LogHr(1) tid(56a8) 80070002 The system cannot find the file specified.
+2024-09-15T10:33:56.228138+03:00 0x000056a8 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF60938C205: (caller: 00007FF6092ECCB6) LogHr(2) tid(56a8) 80070002 The system cannot find the file specified.
+2024-09-15T10:33:56.228138+03:00 0x000056a8 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(58)\ms-teamsupdate.exe!00007FF6093290D7: (caller: 00007FF60938C21F) LogHr(3) tid(56a8) 80070002 The system cannot find the file specified.
+2024-09-15T10:33:56.228138+03:00 0x000056a8 <INFO> TelemetryService: InitOfficeDiagnosticLevel to OfficeDiagnosticLevel::Unset
+2024-09-15T10:33:56.228138+03:00 0x000056a8 <INFO> BackgroundTaskBase: Registering msteamsupdate.exe as bgtask com server for task: TeamsTfwEcsTask
+2024-09-15T10:33:56.250423+03:00 0x000062f4 <INFO> EcsBackgroundTask: Starting ecs background task
+2024-09-15T10:33:56.251498+03:00 0x000062f4 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF6094386ED: (caller: 00007FF609333D45) LogHr(4) tid(62f4) 80070002 The system cannot find the file specified.
+2024-09-15T10:33:56.251498+03:00 0x000062f4 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(111)\ms-teamsupdate.exe!00007FF6093293E6: (caller: 00007FF609334D30) LogHr(5) tid(62f4) 80070002 The system cannot find the file specified.
+2024-09-15T10:33:56.251498+03:00 0x000062f4 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF609334EAB: (caller: 00007FF60934BE54) LogHr(6) tid(62f4) 80070002 The system cannot find the file specified.
+2024-09-15T10:33:56.251498+03:00 0x000062f4 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(111)\ms-teamsupdate.exe!00007FF6093293E6: (caller: 00007FF609334FD3) LogHr(7) tid(62f4) 80070002 The system cannot find the file specified.
+2024-09-15T10:33:56.252023+03:00 0x000062f4 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(111)\ms-teamsupdate.exe!00007FF6093293E6: (caller: 00007FF6093350B3) LogHr(8) tid(62f4) 80070002 The system cannot find the file specified.
+2024-09-15T10:33:56.252023+03:00 0x000062f4 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF6094386ED: (caller: 00007FF6093350E5) LogHr(9) tid(62f4) 80070002 The system cannot find the file specified.
+2024-09-15T10:33:56.252023+03:00 0x000062f4 <ERR>  WIL: D:\a\_work\1\s\src\base\winregutils.cpp(44)\ms-teamsupdate.exe!00007FF6094386ED: (caller: 00007FF609335277) LogHr(10) tid(62f4) 80070002 The system cannot find the file specified.
+2024-09-15T10:33:56.252023+03:00 0x000062f4 <INFO> TelemetryService: Restored sampling rules from previous session
+2024-09-15T10:33:56.252562+03:00 0x000062f4 <INFO> vdi::VDIProvider: : VDIMode: 0000
+2024-09-15T10:33:56.290432+03:00 0x000062f4 <INFO> TelemetryService: No primary user detected during a SetUserTenantId Call, setting d893f76c-fb9b-4656-80ac-c14015c64273 as default tenant
+2024-09-15T10:33:56.290432+03:00 0x000062f4 <INFO> TelemetryService: No primary user detected during a SetUserId Call, setting c15f3055-345e-49ab-9ebd-42f83c9cc901 as UserInfo_Id
+2024-09-15T10:33:56.290432+03:00 0x000062f4 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-15T10:33:56.290432+03:00 0x000062f4 <INFO> EcsFetchCompletion: Ecs settings are already up to date
+2024-09-15T10:33:56.306226+03:00 0x000062f4 <INFO> EcsBackgroundTask: Completed ecs background task
+2024-09-15T10:33:57.416319+03:00 0x000056a8 <INFO> TelemetryService: Telemetry service stopped

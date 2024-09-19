@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="240008" V="1" DC="SM" EN="Office.Security.IrmDesktopActions" ATT="05e0c2fd5fff432bac7a175220223da5-2eec7cb2-952b-4862-9fd4-16ed083da5ec-7364" DCa="PSU" xmlns="">
+  <S>
+    <UTS T="1" Id="bb4u1" A="a4sb2" />
+    <UTS T="2" Id="bb4u2" A="a4sb3" />
+    <UTS T="3" Id="bpcvn" A="a4sb4" />
+    <UTS T="4" Id="bpcvm" />
+    <UTS T="5" Id="bpcvo" />
+    <UTS T="6" Id="bb414" A="a4sb5" />
+    <US T="7">
+      <S T="1" />
+      <S T="2" />
+      <S T="3" />
+      <S T="4" />
+      <S T="5" />
+      <S T="6" />
+    </US>
+  </S>
+  <C T="FT" I="0" O="false" N="CollectionTime">
+    <S T="7" F="TimeStamp100ns" />
+  </C>
+  <C T="TAG" I="1" O="false" N="IrmActionTag">
+    <S T="7" F="ULS_Tag" />
+  </C>
+  <T>
+    <S T="7" />
+  </T>
+</R>

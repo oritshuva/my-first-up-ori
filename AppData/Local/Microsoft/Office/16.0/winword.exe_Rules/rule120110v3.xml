@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<R Id="120110" V="3" DC="ESM" EN="Office.System.SystemHealthEssentialMetadataAllIdentities" ATT="cd836626611c4caaa8fc5b2e728ee81d-3b6d6c45-6377-4bf5-9792-dbf8e1881088-7521" SP="CriticalCensus" T="Upload-Medium" DL="A" DCa="PSU" xmlns="">
+  <RIS>
+    <RI N="Metadata" />
+  </RIS>
+  <S>
+    <UTS T="1" Id="a1juv" />
+    <F T="2">
+      <O T="OR">
+        <L>
+          <O T="OR">
+            <L>
+              <O T="EQ">
+                <L>
+                  <S T="1" F="IdentityType" />
+                </L>
+                <R>
+                  <V V="1" T="U32" />
+                </R>
+              </O>
+            </L>
+            <R>
+              <O T="EQ">
+                <L>
+                  <S T="1" F="IdentityType" />
+                </L>
+                <R>
+                  <V V="2" T="U32" />
+                </R>
+              </O>
+            </R>
+          </O>
+        </L>
+        <R>
+          <O T="EQ">
+            <L>
+              <S T="1" F="IdentityType" />
+            </L>
+            <R>
+              <V V="4" T="U32" />
+            </R>
+          </O>
+        </R>
+      </O>
+    </F>
+    <F T="3">
+      <O T="AND">
+        <L>
+          <O T="AND">
+            <L>
+              <O T="NE">
+                <L>
+                  <S T="1" F="IdentityType" />
+                </L>
+                <R>
+                  <V V="1" T="U32" />
+                </R>
+              </O>
+            </L>
+            <R>
+              <O T="NE">
+                <L>
+                  <S T="1" F="IdentityType" />
+                </L>
+                <R>
+                  <V V="2" T="U32" />
+                </R>
+              </O>
+            </R>
+          </O>
+        </L>
+        <R>
+          <O T="NE">
+            <L>
+              <S T="1" F="IdentityType" />
+            </L>
+            <R>
+              <V V="4" T="U32" />
+            </R>
+          </O>
+        </R>
+      </O>
+    </F>
+    <R T="4" R="120100" />
+    <R T="5" R="120110" />
+  </S>
+  <G>
+    <S T="2">
+      <F N="IdentityUniqueId" />
+    </S>
+    <S T="3">
+      <F N="IdentityUniqueId" />
+    </S>
+    <S T="1">
+      <F N="IdentityUniqueId" />
+    </S>
+    <S T="5">
+      <F N="1" />
+    </S>
+  </G>
+  <C T="U32" I="0" O="false" N="IdentityType">
+    <O T="COALESCE">
+      <L>
+        <S T="1" F="IdentityType" />
+      </L>
+      <R>
+        <S T="5" F="0" />
+      </R>
+    </O>
+  </C>
+  <C T="W" I="1" O="true" N="IdentityUniqueId">
+    <O T="COALESCE">
+      <L>
+        <S T="2" F="IdentityUniqueId" M="Ignore" />
+      </L>
+      <R>
+        <S T="5" F="1" />
+      </R>
+    </O>
+  </C>
+  <C T="BIN" I="2" O="true" N="IdentityUniqueIdHashed">
+    <O T="COALESCE">
+      <L>
+        <U T="OneWaySHA1HashToBinary">
+          <S T="3" F="IdentityUniqueId" M="Ignore" />
+        </U>
+      </L>
+      <R>
+        <S T="5" F="2" />
+      </R>
+    </O>
+  </C>
+  <T>
+    <S T="2" />
+    <S T="3" />
+    <S T="4" />
+  </T>
+</R>

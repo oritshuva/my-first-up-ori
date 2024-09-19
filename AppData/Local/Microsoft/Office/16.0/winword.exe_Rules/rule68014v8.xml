@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="68014" V="8" DC="SM" EN="Office.TellMe.TellMeD.OnlineSuggestionResponse" ATT="31d9dd3e4c7046a696537586281d7ed1-06d11dd6-a946-4281-8ac3-a7c2ab4776f5-7063" SP="CriticalBusinessImpact" DL="N" DCa="PSU" xmlns="">
+  <RIS>
+    <RI N="ExperimentationCustomData" />
+  </RIS>
+  <S>
+    <UTS T="1" Id="bxl7d" A="bxl7e" />
+  </S>
+  <C T="FT" I="0" O="false" N="Timestamp">
+    <S T="1" F="TimeStamp100ns" />
+  </C>
+  <C T="G" I="1" O="false" N="TellMeSessionId">
+    <S T="1" F="sessionId" />
+  </C>
+  <C T="TAG" I="2" O="true" N="Tag">
+    <S T="1" F="ULS_Tag" M="Ignore" />
+  </C>
+  <C T="U32" I="3" O="false" N="Result">
+    <S T="1" F="result" />
+  </C>
+  <C T="U32" I="4" O="false" N="HttpStatusCode">
+    <S T="1" F="httpStatusCode" />
+  </C>
+  <C T="U32" I="5" O="false" N="ResponseTime">
+    <S T="1" F="responseTime" />
+  </C>
+  <C T="U32" I="6" O="false" N="UserActionID">
+    <V V="0" T="U32" />
+  </C>
+  <C T="W" I="7" O="false" N="UserActionName">
+    <V V="TellMeD_OnlineSuggestionResponse" T="W" />
+  </C>
+  <C T="B" I="8" O="true" N="IsTextWhitespace">
+    <S T="1" F="isTextWhitespace" />
+  </C>
+  <C T="W" I="9" O="false" N="Message">
+    <V V="" T="W" />
+  </C>
+  <C T="B" I="10" O="true" N="FastServiceCall">
+    <S T="1" F="fastServiceCall" />
+  </C>
+  <C T="W" I="11" O="true" N="OnlineSuggestionTypes">
+    <S T="1" F="onlineSuggestionTypes" />
+  </C>
+  <T>
+    <S T="1" />
+  </T>
+</R>

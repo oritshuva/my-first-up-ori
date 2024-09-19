@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="170003" V="1" DC="SM" EN="Office.Graphics.GVisExceptions" ATT="cfcfdb91c68c4329bb8b7cb7babb3cf7-e082c2f2-ef1d-427a-ac4d-b0b700afe7a7-7655" DCa="PSU" xmlns="">
+  <S>
+    <UCSS T="1" C="OART Exception" S="Medium Unexpected" />
+    <A T="2" E="TelemetryShutdown" />
+    <A T="3" E="TelemetrySuspend" />
+    <TI T="4" I="10min" />
+  </S>
+  <G>
+    <S T="1">
+      <F N="ULS_TagId" />
+    </S>
+  </G>
+  <C T="W" I="0" O="false" N="TagID">
+    <S T="1" F="ULS_TagId" />
+  </C>
+  <C T="U32" I="1" O="false" N="TagCount">
+    <C>
+      <S T="1" />
+    </C>
+  </C>
+  <T>
+    <S T="4" />
+    <S T="2" />
+    <S T="3" />
+  </T>
+</R>

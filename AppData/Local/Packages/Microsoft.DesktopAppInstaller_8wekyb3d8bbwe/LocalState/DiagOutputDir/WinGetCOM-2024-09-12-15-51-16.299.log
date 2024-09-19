@@ -1,0 +1,23 @@
+2024-09-12 15:51:16.366 [CORE] WinGet, version [1.8.1911], activity [{1546F724-489A-44E8-B3F3-A390C098E64E}]
+2024-09-12 15:51:16.367 [CORE] OS: Windows.Desktop v10.0.22631.3593
+2024-09-12 15:51:16.367 [CORE] Command line Args: "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.23.1911.0_x64__8wekyb3d8bbwe\WindowsPackageManagerServer.exe" -Embedding
+2024-09-12 15:51:16.367 [CORE] Package: Microsoft.DesktopAppInstaller v1.23.1911.0
+2024-09-12 15:51:16.367 [CORE] IsCOMCall:1; Caller: C:\Windows\explorer.exe
+2024-09-12 15:51:16.457 [CORE] Default proxy is not set
+2024-09-12 15:51:16.457 [REPO] REST HTTP Client helper does not use proxy
+2024-09-12 15:51:16.474 [REPO] REST HTTP Client helper does not use proxy
+2024-09-12 15:51:16.488 [REPO] Sending http GET request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/information
+2024-09-12 15:51:16.596 [REPO] Response status: 200
+2024-09-12 15:51:16.596 [REPO] Authentication node not found. Assuming authentication type none.
+2024-09-12 15:51:16.597 [REPO] Sending http GET request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/information
+2024-09-12 15:51:16.616 [REPO] Response status: 200
+2024-09-12 15:51:16.617 [REPO] Authentication node not found. Assuming authentication type none.
+2024-09-12 15:51:16.623 [REPO] Creating new SQLite Index with version [Latest] at ':memory:'
+2024-09-12 15:51:16.677 [REPO] Reading MSI UpgradeCodes
+2024-09-12 15:51:16.732 [REPO] Reading MSI UpgradeCodes
+2024-09-12 15:51:17.401 [REPO] Opening database for ReadWrite at 'C:\Users\orits\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\StoreEdgeFD\installed.db'
+2024-09-12 15:51:17.402 [REPO] Opened SQLite Index with version [1.6], last write [2023-09-05 12:11:22.000]
+2024-09-12 15:51:17.406 [REPO] Sending http POST request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/manifestSearch
+2024-09-12 15:51:17.451 [REPO] Response status: 200
+2024-09-12 15:51:17.506 [REPO] Opening database for ReadWrite at 'C:\Users\orits\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\Microsoft.Winget.Source_8wekyb3d8bbwe\installed.db'
+2024-09-12 15:51:17.507 [REPO] Opened SQLite Index with version [1.7], last write [2024-04-14 23:46:04.000]

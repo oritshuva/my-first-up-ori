@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="240010" V="2" DC="SM" EN="Office.Security.SrDesktopCheck" ATT="05e0c2fd5fff432bac7a175220223da5-2eec7cb2-952b-4862-9fd4-16ed083da5ec-7364" DCa="PSU" xmlns="">
+  <S>
+    <UTS T="1" Id="a5yzu" A="a529j" />
+  </S>
+  <C T="FT" I="0" O="false" N="CollectionTime">
+    <S T="1" F="TimeStamp100ns" />
+  </C>
+  <C T="W" I="1" O="false" N="PackageFamilyName">
+    <S T="1" F="PackageFamilyName" />
+  </C>
+  <C T="B" I="2" O="false" N="IsTrustedApp">
+    <S T="1" F="FTrustedApp" />
+  </C>
+  <C T="I32" I="3" O="true" N="AppZoneId">
+    <S T="1" F="AppZoneId" M="Ignore" />
+  </C>
+  <T>
+    <S T="1" />
+  </T>
+</R>
