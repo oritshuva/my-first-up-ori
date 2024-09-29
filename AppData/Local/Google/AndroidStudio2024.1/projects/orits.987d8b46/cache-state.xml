@@ -711,15 +711,16 @@
     <timestamps>
       <entry key="6de9eeb183bbdb94186d4c7eec8805b9" value="1727354324834" />
       <entry key="7816fb258d9791a3d91680f7652b4d60" value="1727340516192" />
+      <entry key="885bcf399d8583898b1dbfff8f566505" value="1727356488737" />
       <entry key="8c965b5364e1d4096047af501d1b9f60" value="1727340096457" />
       <entry key="e10513b842804d7a9ea9bdd681d5a6f1" value="1727352826167" />
     </timestamps>
   </component>
   <component name="VcsLogIndexCollector">
-    <option name="indexTime" value="4918" />
+    <option name="indexTime" value="5701" />
     <option name="indexTimeByRoot">
       <map>
-        <entry key="$PROJECT_DIR$" value="6958" />
+        <entry key="$PROJECT_DIR$" value="7741" />
       </map>
     </option>
   </component>
