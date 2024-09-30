@@ -24,8 +24,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/eggapp/MainActivity.java">
           <provider editor-type-id="android-source-code" selected="true">
             <state>
-              <editor-state relative-caret-position="-328">
-                <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+              <editor-state relative-caret-position="198">
+                <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               </editor-state>
             </state>
           </provider>
@@ -139,8 +139,8 @@
       <unified_weights bottom="0.3306092" left="0.32123342" right="0.25019515" />
     </layoutV2>
     <recentWindows>
-      <value>Problems View</value>
       <value>Commit</value>
+      <value>Problems View</value>
       <value>Running Devices</value>
       <value>Messages</value>
       <value>Project</value>
@@ -160,6 +160,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="443" y="51" key="RollbackChangesDialog/0.0.1280.672@0.0.1280.672" timestamp="1727353392270" />
+    <state x="233" y="47" key="Vcs.Push.Dialog.v2" timestamp="1727682105523">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="233" y="47" key="Vcs.Push.Dialog.v2/0.0.1280.672@0.0.1280.672" timestamp="1727682105523" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/pic2aggapp.jpeg">
@@ -180,8 +184,8 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/eggapp/MainActivity.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="-328">
-            <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <editor-state relative-caret-position="198">
+            <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           </editor-state>
         </state>
       </provider>
