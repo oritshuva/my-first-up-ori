@@ -1,5 +1,5 @@
-libdir=C:/buildbot/src/android/emu-34-2-release/out/distribution/emulator/lib
-includedir=C:/buildbot/src/android/emu-34-2-release/out/distribution/emulator/include
+libdir=C:/buildbot/src/out/distribution/emulator/lib
+includedir=C:/buildbot/src/out/distribution/emulator/include
 
 Name: FlatBuffers
 Description: Memory Efficient Serialization Library

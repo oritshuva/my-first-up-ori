@@ -9,29 +9,20 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="179dp"
-        android:layout_height="121dp"
-        android:layout_marginStart="106dp"
-        android:layout_marginTop="45dp"
-        android:layout_marginEnd="127dp"
-        android:layout_marginBottom="565dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:text="help me!"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textSize="34sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+       />
 
     <ImageView
         android:id="@+id/imageview_egg"
-        android:layout_width="215dp"
-        android:layout_height="224dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:onClick="knock"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/pic1aggapp"
-        tools:layout_editor_absoluteY="219dp" />
+        />
 
     <TextView
         android:id="@+id/textview_counter"
@@ -39,21 +30,17 @@
         android:layout_height="85dp"
         android:text="10"
         android:textSize="48sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.529"
-        app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="479dp" />
 
     <Button
         android:id="@+id/reset"
-        android:layout_width="153dp"
-        android:layout_height="101dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:background="@color/black"
         android:onClick="rest"
         android:text="reset"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.511"
-        app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="585dp" />
+
+
 
 </androidx.appcompat.widget.LinearLayoutCompat>
