@@ -25,8 +25,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/eggapp/MainActivity.java">
           <provider editor-type-id="android-source-code" selected="true">
             <state>
-              <editor-state relative-caret-position="46">
-                <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+              <editor-state relative-caret-position="308">
+                <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
               </editor-state>
             </state>
           </provider>
@@ -37,12 +37,12 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 4,
-      "lastUsed": 1729928014532
+      "usageCount": 5,
+      "lastUsed": 1729929884618
     },
     "XML": {
-      "usageCount": 5,
-      "lastUsed": 1729928015238
+      "usageCount": 6,
+      "lastUsed": 1729929885121
     },
     "Image": {
       "usageCount": 3,
@@ -66,10 +66,10 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="4" lastUsage="1729928014537" />
+      <summary usageCount="5" lastUsage="1729929884622" />
     </language>
     <language id="XML">
-      <summary usageCount="5" lastUsage="1729928015238" />
+      <summary usageCount="6" lastUsage="1729929885121" />
     </language>
   </component>
   <component name="ProjectView">
@@ -176,10 +176,10 @@
       <screen x="0" y="0" width="1280" height="672" />
     </state>
     <state x="226" y="10" width="828" height="653" key="#com.android.tools.idea.streaming.emulator.dialogs.ManageSnapshotsDialog/0.0.1280.672@0.0.1280.672" timestamp="1727356804836" />
-    <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1728291102887">
+    <state x="421" y="84" key="FileChooserDialogImpl" timestamp="1729930087368">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
-    <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1728291102887" />
+    <state x="421" y="84" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1729930087368" />
     <state x="443" y="51" key="RollbackChangesDialog" timestamp="1727353392270">
       <screen x="0" y="0" width="1280" height="672" />
     </state>
@@ -220,8 +220,8 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/eggapp/MainActivity.java">
       <provider selected="true" editor-type-id="android-source-code">
         <state>
-          <editor-state relative-caret-position="46">
-            <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+          <editor-state relative-caret-position="308">
+            <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
           </editor-state>
         </state>
       </provider>
